@@ -1,0 +1,8 @@
+#!url=https://llskjddskgdkj.github.io/sgmodule-dns/dns-rule.sgmodule
+#!name=节点DNS优化
+#!desc=节点域名指定DNS
+
+[Host]
+*.kunlun07dns.com = server:https://20.247.42.211:36290/dns-query
+*.kunlun07dns.com = server:https://20.239.241.138:55228/dns-query
+*.kunlun07dns.com = server:https://104.208.122.199:62201/dns-query        
